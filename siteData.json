@@ -62,10 +62,20 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "adding-a-person": "Adding a person",
         "deleting-a-person": "Deleting a person",
+        "editing-a-person": "Editing a person",
+        "adding-a-class": "Adding a class",
         "deleting-a-class": "Deleting a class",
-        "undoing-a-command": "Undoing a Command",
-        "editing-a-person": "Editing a Person"
+        "editing-a-class": "Editing a class",
+        "enrolling-a-person": "Enrolling a person",
+        "removing-a-student-from-a-class": "Removing a student from a class",
+        "finding-a-person": "Finding a person",
+        "finding-a-class": "Finding a class",
+        "marking-a-student-s-attendance": "Marking a student's attendance",
+        "unmarking-a-student-s-attendance": "Unmarking a student's attendance",
+        "undo-a-command": "Undo a command",
+        "redo-a-command": "Redo a command"
       },
       "headingKeywords": {}
     },
