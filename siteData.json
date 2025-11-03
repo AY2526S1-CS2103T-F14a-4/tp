@@ -63,7 +63,9 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "deleting-a-class": "Deleting a class",
+        "undoing-a-command": "Undoing a Command",
+        "editing-a-person": "Editing a Person"
       },
       "headingKeywords": {}
     },
