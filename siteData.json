@@ -77,7 +77,8 @@
         "undo-a-command": "Undo a command",
         "redo-a-command": "Redo a command",
         "clear-address-book": "Clear address book",
-        "importing-and-exporting": "Importing and Exporting"
+        "importing-and-exporting": "Importing and Exporting",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
@@ -135,12 +136,12 @@
         "removing-a-person-from-a-class-unenrol": "Removing a person from a class: unenrol",
         "marking-a-person-s-attendance-in-a-class-mark": "Marking a person's attendance in a class: mark",
         "unmarking-a-person-s-attendance-in-a-class-unmark": "Unmarking a person's attendance in a class: unmark",
-        "searching-of-contacts-find": "Searching of Contacts: find",
-        "searching-of-classes-findc": "Searching of Classes: findc",
-        "deleting-a-person-delete": "Deleting a person : delete",
-        "deleting-a-class-deletec": "Deleting a class : deletec",
-        "clearing-all-entries-clear": "Clearing all entries : clear",
-        "undoing-a-command-undo": "Undoing a command : undo",
+        "searching-of-contacts-find": "Searching of contacts: find",
+        "searching-of-classes-findc": "Searching of classes: findc",
+        "deleting-a-person-delete": "Deleting a person: delete",
+        "deleting-a-class-deletec": "Deleting a class: deletec",
+        "clearing-all-entries-clear": "Clearing all entries: clear",
+        "undoing-a-command-undo": "Undoing a command: undo",
         "redoing-an-undone-command-redo": "Redoing an undone command: redo",
         "importing-data-import": "Importing data: import",
         "exporting-data-export": "Exporting data: export",
